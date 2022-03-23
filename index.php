@@ -82,9 +82,12 @@ span.psw {
     <label for="uname"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" required>
 
+<<<<<<< HEAD
     <label for="uname"><b>Token</b></label>
     <input type="text" placeholder="Enter Token" name="token" required>
 
+=======
+>>>>>>> b2317c78728de4e9c383ed359a833c673aa4fa07
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
         
